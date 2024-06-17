@@ -1,4 +1,4 @@
-## Oiii eu sou o Tavares, estudante de programação e tecnologia!
+## Oi eu sou o Tavares, estudante de programação e tecnologia!
 
 
 <div style="display: inline_block"><br>
